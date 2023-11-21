@@ -108,7 +108,7 @@ function cadastrar() {
         msgError.setAttribute('style', 'display: none')
 
         setTimeout(() => {
-            window.location.href =  'https://weverml.github.io/tela_de_login/'
+            window.location.href =  'http://127.0.0.1:5500/index.html'
             
         }, 3000);
     }
