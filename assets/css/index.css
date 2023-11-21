@@ -135,3 +135,12 @@ a:hover {
     color: #7C2B6D;
     transform: scale(1.1);
 }
+
+#msgError {
+    text-align: center;
+    color: #ff000090;
+    background-color: #ffbbbb90;
+    padding: 1rem;
+    border: .4rem;
+    display: none;
+}
